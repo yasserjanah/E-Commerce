@@ -1,0 +1,8 @@
+@font-face {
+    font-family: consolas;
+    src: url(../fonts/consola.ttf);
+}
+
+* {
+    font-family: consolas !important;
+}
